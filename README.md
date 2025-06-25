@@ -27,6 +27,10 @@
 </p>
 
 ---
+## 🧠 RaghavGupta LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/iraghav895?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/u/iraghav895/)
+
 
 ### 🔗 Connect with Me
 
