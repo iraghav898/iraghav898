@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Raghav Gupta</h1>
-<h3 align="center">🚀 Blockchain | Web3 | Rust Developer from India</h3>
+<h3 align="center">🚀  Web3 | Full Stack Blockchain Developer from India</h3>
 
 
 <p align="center">
@@ -25,6 +25,10 @@
   <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+
+
+  
 </p>
 
 ---
@@ -40,6 +44,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
 </p>
+
+
+
 
 ---
 
